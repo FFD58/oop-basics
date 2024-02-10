@@ -6,13 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2ab6c94b-2a8a-46c8-91da-4e7ad217f59d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task4/GreaterOfThreeNumbersSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task4/GreaterOfThreeNumbersSearcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task5/StringCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task5/StringCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/MinOfTwoNumbersSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/MinOfTwoNumbersSearcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/Multitasker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/Multitasker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/ReverseStringPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/ReverseStringPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/SumOfArrElmntsSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson4/task6/SumOfArrElmntsSearcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/PageDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/PageDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task10/TicTacToeStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task10/TicTacToeStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task11/FileInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task11/FileInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task8/CurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task8/CurrencyLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task9/BreakingBadQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task9/BreakingBadQuote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +42,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/OOPBasics/src/main/java/ru/fafurin/lesson4"
+    "last_opened_file_path": "V:/JavaProjects/OOPBasics/src/main/java/ru/fafurin/lesson5"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\OOPBasics\src\main\java\ru\fafurin\lesson5" />
       <recent name="V:\JavaProjects\OOPBasics\src\main\java\ru\fafurin\lesson4" />
       <recent name="V:\JavaProjects\OOPBasics\src\main\java\ru\fafurin\lesson1" />
     </key>
